@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "allowJs": true, // js 허용 여부
+    "checkJs": true, // js 타입 체크
+    "noImplicitAny": true // 모든 타입에는 any라도 들어가야한다는 규칙
+  }
+}
